@@ -17,7 +17,7 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'sunamo@gmail.com'</initValue>
-      <name>email</name>
+      <name>unregistEmail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
@@ -27,6 +27,41 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'jlYWSi8mxv13dCRq/gql3A=='</initValue>
-      <name>password</name>
+      <name>unregistPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'not.litefrost@gmail.com'</initValue>
+      <name>registEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jlYWSi8mxv13dCRq/gql3A=='</initValue>
+      <name>registPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hayoyoy@gmail.com'</initValue>
+      <name>invalEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jlYWSi8mxv13dCRq/gql3A=='</initValue>
+      <name>invalPass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567'</initValue>
+      <name>numberName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567890123456789012345678901234567890123456789012345678901234567890'</initValue>
+      <name>invalWhatsapp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'4nvbrPglk7k='</initValue>
+      <name>invalPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

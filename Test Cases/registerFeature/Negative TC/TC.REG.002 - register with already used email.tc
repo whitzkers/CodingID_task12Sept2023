@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.002 - register with already used email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be25879e-76c8-4e9b-9c4d-4b7066086988</testCaseGuid>
+</TestCaseEntity>

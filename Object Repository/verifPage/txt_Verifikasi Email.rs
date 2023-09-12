@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Verifikasi Email</name>
+   <name>txt_Verifikasi Email</name>
    <tag></tag>
    <elementGuidId>4ad7cb51-25f2-4270-a9f2-bf1ab165ef31</elementGuidId>
    <selectorCollection>

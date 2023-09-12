@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.REG.004 - register with whatsapp number with 50 digits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>15ad3ec4-4641-48f0-ae2d-6e714b0587b8</testCaseGuid>
+</TestCaseEntity>

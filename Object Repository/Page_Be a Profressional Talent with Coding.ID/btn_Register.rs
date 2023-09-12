@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Buat                                _86b528</name>
+   <name>btn_Register</name>
    <tag></tag>
    <elementGuidId>8a41a55f-1b45-43ee-b126-cee7bc8f761b</elementGuidId>
    <selectorCollection>
