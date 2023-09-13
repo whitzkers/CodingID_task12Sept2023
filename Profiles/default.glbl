@@ -64,4 +64,9 @@
       <initValue>'4nvbrPglk7k='</initValue>
       <name>invalPassword</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\file to be tested\\foto test1.jpg'</initValue>
+      <name>pathPhoto</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

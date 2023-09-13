@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>88aa6ad3-a6c3-43d4-9118-dd24b5172bf6</webElementGuid>
+      <webElementGuid>d208419e-af11-4f23-b71d-2c726e38e46b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fas fa-user-alt</value>
-      <webElementGuid>9f8d2d31-3eab-4913-b424-0ddbb2de0433</webElementGuid>
+      <webElementGuid>9562639b-651f-4f60-8bb1-cf1b3760ca0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbar-collapse-1&quot;)/ul[@class=&quot;nav navbar-nav&quot;]/li[@class=&quot;___class_+?26___&quot;]/a[1]/i[@class=&quot;fas fa-user-alt&quot;]</value>
-      <webElementGuid>25f575cd-ce35-4034-90ad-3ee6c9d62da6</webElementGuid>
+      <webElementGuid>9706a823-a627-40ea-a43a-37c6ac98ddae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbar-collapse-1']/ul/li[7]/a/i</value>
-      <webElementGuid>a781dabb-7cb9-494b-b85d-55f335258f0d</webElementGuid>
+      <webElementGuid>e2909d44-1f59-46bc-8cc6-e1240e9a91f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/i</value>
-      <webElementGuid>95395a56-2194-45c5-8c41-5c5015608cf4</webElementGuid>
+      <webElementGuid>1317e92e-4bf4-4e9a-a333-96e159759c25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
