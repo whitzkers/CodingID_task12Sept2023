@@ -7,7 +7,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>c4ae4dd2-bf3d-48d3-a82c-d1da05fd0d65</dataFileGUID>
-   <dataSourceUrl>D:\file to be tested\upload file\daily task.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Users\bsi80196\Katalon Studio\DailyTaskTDD\upload file\daily task.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

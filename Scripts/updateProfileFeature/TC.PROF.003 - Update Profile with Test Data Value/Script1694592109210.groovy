@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/button_
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Coding.ID - Dashboard/div_Berhasil'), 'Berhasil')
 
-WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/button_OK'))
+WebUI.click(findTestObject('Page_Coding.ID - Dashboard/button_OK'))
 
 WebUI.closeBrowser()
 

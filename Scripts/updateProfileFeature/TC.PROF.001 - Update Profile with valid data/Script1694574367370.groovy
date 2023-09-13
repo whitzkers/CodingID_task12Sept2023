@@ -38,17 +38,17 @@ WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/span_Pr
 
 WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/a_Edit Profile'))
 
-WebUI.uploadFile(findTestObject('Object Repository/Page_Coding.ID - Dashboard/img_Invoice_avatar-icon'), 'D:\\file to be tested\\upload file\\download.png')
+WebUI.uploadFile(findTestObject('Object Repository/Page_Coding.ID - Dashboard/img_Invoice_avatar-icon'), 'D:\\Users\\bsi80196\\Katalon Studio\\DailyTaskTDD\\upload file\\download.png')
 
 WebUI.setText(findTestObject('Object Repository/Page_Coding.ID - Dashboard/input_Fullname_name'), 'Sanjaya Sanjayi')
 
 WebUI.setText(findTestObject('Object Repository/Page_Coding.ID - Dashboard/input_Phone_whatsapp'), '081284065087')
 
-WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/button_Save Changes'))
+WebUI.click(findTestObject('Page_Coding.ID - Dashboard/button_Save Changes'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Coding.ID - Dashboard/div_Berhasil'), 'Berhasil')
 
-WebUI.click(findTestObject('Object Repository/Page_Coding.ID - Dashboard/button_OK'))
+WebUI.click(findTestObject('Page_Coding.ID - Dashboard/button_OK'))
 
 WebUI.closeBrowser()
 
